@@ -6,5 +6,9 @@ the dashboard titled "RETAIL SALES ANALYSIS"  provides a visuals summary of sale
   2.product categories (beauty,clothing,electronics)
   3.sales trends by gender
 
-## Insight:Retail-sales-analysis
+## Insight:
+<a href ="https://github.com/Brindha-1802/Retail-sales-analysis/blob/main/sales.png">view dashboard</a>
 
+## conculsion:
+ 1.the beauty product category has the lowest price and the lowest count of quantity sales,while the clothings and electronics has the higher sales 
+ 2.analysis highlights the performance of the product and customer demographics,
