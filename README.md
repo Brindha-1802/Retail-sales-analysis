@@ -6,4 +6,5 @@ the dashboard titled "RETAIL SALES ANALYSIS"  provides a visuals summary of sale
   2.product categories (beauty,clothing,electronics)
   3.sales trends by gender
 
-## Insight:
+## Insight:Retail-sales-analysis
+
